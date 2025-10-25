@@ -3,7 +3,6 @@ About TACLe Benchmarks
 
 This is the starting point for the repository of the TACLe benchmark
 collection.
-See also: http://www.tacle.eu/index.php/activities/taclebench
 
 Documentation
 =============
